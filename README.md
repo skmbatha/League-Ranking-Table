@@ -9,7 +9,7 @@ io and os.
 
 # How to run
 
-- Run without iput files:  __python3 rankGames.py__
+- Run without input files:  __python3 rankGames.py__
 - Run with input files:  __python3 rankGames.py <inputFile1> <inputFile2> <...>__ 
 
 
