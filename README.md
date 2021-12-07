@@ -9,8 +9,8 @@ io and os.
 
 # How to run
 
-- Run without input files:  **python3 rankGames.py**
-- Run with input files:  **python3 rankGames.py <inputFile1> <inputFile2> <...>** 
+- Run without input files:  *python3 rankGames.py*
+- Run with input files:  *python3 rankGames.py inputFile1 inputFile2 ...* 
 
 
 # Running the tests
@@ -21,13 +21,13 @@ from the tests is printed on the terminal.
 
 To initiate the tests, run:
 
-**python3 test.py**
+*python3 test.py*
 
 ## Your own tests
 
 You can also define your own tests and run them directly on the program source file.
 
-- Create a test X.txt file
-- Implement the test by running **python3 rankGames.py test/testX.txt** (you must be in the root folder).
+- Create a *test X.txt* file
+- Implement the test by running *python3 rankGames.py test/testX.txt* (you must be in the root folder).
 
  
